@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/tweb-Project1/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "6f2eae164d33c5879b68",
+    "revision": "2cd4394962d94905c946",
     "url": "/tweb-Project1/static/css/main.b83a5b61.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/tweb-Project1/static/js/runtime~main.d060e1e2.js"
   },
   {
-    "revision": "6f2eae164d33c5879b68",
-    "url": "/tweb-Project1/static/js/main.6f2eae16.chunk.js"
+    "revision": "2cd4394962d94905c946",
+    "url": "/tweb-Project1/static/js/main.2cd43949.chunk.js"
   },
   {
     "revision": "5c78b4cf03771fd2287325c44f0d3cd9",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/tweb-Project1/static/css/1.628bf763.chunk.css"
   },
   {
-    "revision": "bb94443c53f54142d2055be3b832540c",
+    "revision": "d8563b302fa2dc3d6c33fdfbabdde896",
     "url": "/tweb-Project1/index.html"
   }
 ];

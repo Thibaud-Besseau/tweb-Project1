@@ -1,7 +1,7 @@
 {
   "main.css": "/tweb-Project1/static/css/main.b83a5b61.chunk.css",
-  "main.js": "/tweb-Project1/static/js/main.6f2eae16.chunk.js",
-  "main.js.map": "/tweb-Project1/static/js/main.6f2eae16.chunk.js.map",
+  "main.js": "/tweb-Project1/static/js/main.2cd43949.chunk.js",
+  "main.js.map": "/tweb-Project1/static/js/main.2cd43949.chunk.js.map",
   "static/css/1.628bf763.chunk.css": "/tweb-Project1/static/css/1.628bf763.chunk.css",
   "static/js/1.0b530301.chunk.js": "/tweb-Project1/static/js/1.0b530301.chunk.js",
   "static/js/1.0b530301.chunk.js.map": "/tweb-Project1/static/js/1.0b530301.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/css/main.b83a5b61.chunk.css.map": "/tweb-Project1/static/css/main.b83a5b61.chunk.css.map",
   "static/css/1.628bf763.chunk.css.map": "/tweb-Project1/static/css/1.628bf763.chunk.css.map",
   "index.html": "/tweb-Project1/index.html",
-  "precache-manifest.841d0c8ee6d141a26df0582f941b286e.js": "/tweb-Project1/precache-manifest.841d0c8ee6d141a26df0582f941b286e.js",
+  "precache-manifest.22f640c2c33f02a59370275eb3aea0d2.js": "/tweb-Project1/precache-manifest.22f640c2c33f02a59370275eb3aea0d2.js",
   "service-worker.js": "/tweb-Project1/service-worker.js"
 }
